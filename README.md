@@ -20,6 +20,8 @@ curl -fsSL https://raw.githubusercontent.com/dougkusanagi/codex-skills/main/inst
 
 O instalador usa o `skills` CLI e instala as entradas do manifesto como skills globais do Codex. A autenticação do GitHub continua necessária para repositórios privados.
 
+O [plano de evolução](PLAN.md) descreve como adicionar validação, verificação de atualizações, atualização seletiva e snapshots opcionais sem transformar o catálogo em fork das skills.
+
 ## Catálogo
 
 | Skill | Origem | Revisão | Uso |
